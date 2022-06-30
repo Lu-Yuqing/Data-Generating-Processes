@@ -1,2 +1,1 @@
-# ECON570_Yuqing_Assignment
-Econ570 assignment 2 
+explore how different estimators perform under different Data Generating Processess(DGPs)
